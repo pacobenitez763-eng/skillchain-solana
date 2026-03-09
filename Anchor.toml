@@ -1,0 +1,9 @@
+[programs.devnet]
+skillchain = "11111111111111111111111111111111"
+
+[provider]
+cluster = "devnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+test = "anchor test"
